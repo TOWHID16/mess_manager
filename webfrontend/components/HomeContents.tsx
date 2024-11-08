@@ -114,7 +114,7 @@ const HomeContents = () => {
         </div>
         
 
-        <div className='text-xl text-black font-bold sm:xl my-8'>Individual Update </div>
+        <div className='text-xl text-black font-bold sm:xl my-8'>Individual members Update </div>
         <IndividualMeal />
 
     </div>

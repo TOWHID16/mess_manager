@@ -45,7 +45,7 @@ const AllUsersShow = () => {
         <table className="sm:min-w-[500px] min-w-[300px] bg-white shadow-md rounded-xl">
          
           <thead>
-            <tr className="bg-blue-gray-100 text-gray-700">
+            <tr className="bg-blue-gray-100 text-gray-500">
               <th className="py-3 px-4 text-left">Members Name</th>
               <th className="py-3 px-4 text-left">Role</th>
             </tr>
